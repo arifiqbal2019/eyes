@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Glaucoma Images</folder>
+	<filename>glc img17.jpeg</filename>
+	<path>C:\Users\arif\Desktop\Images\Glaucoma Images\glc img17.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>275</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Glaucoma section-1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>195</xmin>
+			<ymin>84</ymin>
+			<xmax>209</xmax>
+			<ymax>103</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Glaucoma section-2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>189</xmin>
+			<ymin>80</ymin>
+			<xmax>222</xmax>
+			<ymax>110</ymax>
+		</bndbox>
+	</object>
+</annotation>
